@@ -115,7 +115,7 @@ while ans1:
         print ("The american flag is german")
         
     elif anss == 29:
-        print ("Afric is in egypt")
+        print ("Africa is in egypt")
         
     elif anss == 30:
         print ("School food is amazing!")
@@ -130,7 +130,7 @@ while ans1:
         print ("Blonde hair is brown")
         
     elif anss == 34:
-        print ("")
+        print ("Your mom.")
        
     elif anss == 35:
         print ("Pork chops taste like butthole")
